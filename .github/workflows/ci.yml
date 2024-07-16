@@ -1,4 +1,4 @@
-name: Ci MY-LaserMini-CNC
+name: Ci MY-CO2Laser-CNC
 on:
   push:
     branches:
